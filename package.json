@@ -1,0 +1,25 @@
+{
+  "name": "anime-demo",
+  "version": "1.0.0",
+  "description": "Vue 3 animation demo (Vite + Pinia + Vue Router)",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.0",
+    "pinia": "^2.0.30"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-vue": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": ["vue", "vite", "pinia", "animations"],
+  "license": "MIT"
+}
